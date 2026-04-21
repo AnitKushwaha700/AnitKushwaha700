@@ -21,7 +21,15 @@
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
-Core Java • JavaScript • HTML • CSS • Git • GitHub
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,mongodb,express,react,nodejs" />
+</p>
+
+---
+
+<h3 align="center">🔥 GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnitKushwaha700&show_icons=true&theme=default&hide_border=true&v=1" />
 </p>
 
 ---
@@ -29,11 +37,29 @@ Core Java • JavaScript • HTML • CSS • Git • GitHub
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AnitKushwaha700&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AnitKushwaha700&theme=default&hide_border=true&v=1" />
+</p>
+
+---
+
+<h3 align="center">📊 Most Used Languages</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitKushwaha700&layout=compact&theme=default&hide_border=true&v=1" />
+</p>
+
+---
+
+<h3 align="center">🚀 Current Focus</h3>
+
+<p align="center">
+🔹 Mastering Data Structures & Algorithms <br>
+🔹 Building MERN Stack Projects <br>
+🔹 Preparing for Placements
 </p>
 
 ---
 
 <p align="center">
-✨ Focused on consistency, growth, and building impactful projects 🚀
+✨ Consistency beats motivation. Build. Break. Learn. Repeat. 🚀
 </p>
