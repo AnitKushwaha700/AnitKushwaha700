@@ -62,7 +62,7 @@
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnitKushwaha700&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=9CA3AF" width="49%" alt="Anit's GitHub stats" />
@@ -77,7 +77,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitKushwaha700&theme=react-dark&bg_color=0D1117&color=C084FC&line=60A5FA&point=C084FC&area=true&hide_border=true" width="80%" alt="Anit's Contribution Graph" />
 </p>
 
----
+--- >
 
 <!-- Connect With Me Section (Formatted like the reference image) -->
 ## 🌐 Connect With Me
